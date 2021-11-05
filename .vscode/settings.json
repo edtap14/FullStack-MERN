@@ -1,0 +1,5 @@
+{
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    "prettier.tabWidth": 4,
+    "standard.enableGlobally": true
+}
